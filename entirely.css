@@ -1,0 +1,621 @@
+body{
+    font-family: Open Sans;
+    background-color: gray;
+    cursor: pointer;
+}
+.icon{
+background: black;
+display: block;
+float: left;
+width: 100%;
+}
+a,i{
+    background: black;
+    color: blue;
+ }
+ a,i:hover{background: white;
+color: black ;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+.babytitle{
+    text-align: center;
+    margin-top: 5px;
+}
+.babytitle1{
+    background-color: black;
+    color: white;
+    font-size: 8px;
+}
+.div2{
+   position: relative;
+    width:100vw ;
+    height: 110vh;
+    background: rgba(0,0,0,0.7);
+    bottom: 710px;
+}
+.toke{
+position: absolute;
+color: white;
+font-size: 30px;
+right: 1050px;
+bottom: 520px;
+}
+.blog{
+position: absolute;
+color: white;
+font-size: 40px;
+right: 900px;
+bottom: 450px;
+font-weight: bold;
+}
+.email{
+position: absolute;
+bottom: 450px;
+right: 890px;
+height: 17px;
+border-radius: 10px;
+width: 250px;
+cursor: pointer;
+}
+
+.searchbutton{
+position: absolute;
+right: 890px;
+bottom: 420px;
+border-radius: 8px;
+cursor: pointer;
+}
+.div3{
+position: relative;
+height: 700px;
+background-color:white;
+width: 45%;
+top: -707px;
+
+}
+.div3baby1{
+position: absolute;
+width: 90%;
+left: -20px;
+top: 20px;
+padding: 7%;
+}
+.couple{
+position: absolute;
+font-size: 17px;
+right: 200px;
+top: -3px;
+font-weight: bolder;
+}
+.honeymoon{
+position: absolute;
+font-size: 10px;
+right: 210px;
+top: 30px;
+font-weight: bold;
+}
+.talks1{
+position: absolute;
+top: 450px;
+font-size: 12px;
+}
+.readmore1{
+position:absolute;
+top:50px ;
+color: black;
+right: 150px;
+font-size: 12px;
+}
+.likebutton1{
+position: absolute;
+top: 510px;
+right: 450px;
+}
+.replies1{
+position: absolute;
+color: white; 
+background-color: black;
+top: 510px;
+right:70px ;
+}
+.buttonspan1{
+color:black;
+background-color:white ;
+}
+.div3baby2{
+position: relative;
+color: black;
+width: 100%;
+top: 555px;
+
+}
+.line1{
+width: 100%;
+}
+.div3baby3{
+   position: relative;
+    width: 90%;
+    background-color:rgba(230, 217, 217, 0.7);
+    height: 60px;
+    left: 25px;
+    border-color: black;
+    
+}
+.profilepic1{
+position: absolute;
+height: 93%;
+width: 9%;
+top: 5px;
+}
+.comment1{
+position: absolute;
+color: black;
+right: 150px;
+top: 10px;
+}
+.div4{
+position: relative;
+height: 700px;
+background-color:white;
+width: 45%;
+top: -700px;
+}
+.beach{
+position: absolute;
+right: 220px;
+font-size: 17px;
+font-weight: bolder;
+}
+.soft{
+position: absolute;
+font-size: 10px;
+right: 240px;
+top:40px ;
+font-weight: bold;
+}
+.div4baby1{
+position: absolute;
+width: 90%;
+left: 20px;
+top: 90px;
+}
+.talks2{
+position: absolute;
+top: 450px;
+font-size: 12px;}   
+
+.readmore1{ 
+position: absolute;
+top:480px ;
+color: black;
+right: 190px;
+font-size: 12px;
+}
+.likebutton2{
+position: absolute;
+top: 510px;
+right: 450px;
+}
+.replies2{
+position: absolute;
+color: white; 
+background-color: black;
+top: 510px;
+right:40px ;
+}
+.buttonspan2{
+color:black;
+background-color:white ;
+}
+.div4baby2{
+position: relative;
+color: black;
+width: 100%;
+top: 550px;
+
+}
+.line2{
+width: 100%;
+}
+.div4baby3{
+   position: relative;
+    width: 90%;
+    background-color:rgba(230, 217, 217, 0.7);
+    height: 60px;
+    left: 25px;
+    border-color: black;
+}
+.profilepic2{
+position: absolute;
+height: 93%;
+width: 9%;
+top: 5px;
+}
+.comment2{
+position: absolute;
+color: black;
+right: 150px;
+top: 10px;
+}
+.div5{
+position: relative;
+height: 740px;
+background-color:white;
+width: 45%;
+top: -670px;
+}
+.city{
+position: absolute;
+right: 240px;
+font-size: 19px;
+font-weight: bolder;
+}
+.explore{
+position: absolute;
+font-size: 10px;
+right: 265px;
+top:40px ;
+font-weight: bold;
+}
+.div5baby1{
+position: absolute;
+width: 90%;
+right: 30px;
+top: 90px;
+}
+.talks3{
+position: absolute;
+top: 500px;
+font-size: 12px;}   
+
+.readmore3{ 
+position:absolute;
+top:530px ;
+color: black;
+right: 170px;
+font-size: 12px;
+}
+.likebutton3{
+position: absolute;
+top: 565px;
+right: 435px;
+}
+.replies3{
+position: absolute;
+color: white; 
+background-color: black;
+top: 565px;
+right:40px ;
+}
+.buttonspan3{
+color:black;
+background-color:white ;
+}
+.line4{
+width: 100%;
+color: black;
+top:200px ;
+}
+.div5baby3{
+   position: relative;
+    width: 90%;
+    background-color:rgba(230, 217, 217, 0.7);
+    height: 65px;
+    left: 25px;
+    border-color: black;
+    top: 630px;
+}
+.profilepic3{
+position: absolute;
+height: 93%;
+width: 9%;
+top: 5px;
+}
+.comment3{
+position: absolute;
+color: black;
+right: 150px;
+top: 10px;
+}
+.div6{
+position:absolute;
+width: 45%;
+background-color:black;
+color: white;
+ text-align: center;
+top: 910px ;
+right: 5px;
+height: 700px;
+font-weight: bolder;
+font-size: x-large;
+}
+.div6baby1{
+position:absolute ;
+top: 500px;
+font-size: large;
+text-align: center;
+color: white;
+font-weight: bold;
+}
+.div7{
+position: relative;
+background-color: white;
+top: -2170px;
+color: black;
+width: 45%;
+left: 700px;
+height: 1000px;
+text-align: center;
+line-height: 50px;
+}
+.div7baby1{
+position: absolute;
+text-align: center;
+font-weight: bolder;
+}
+.profilepic4{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.profilepic5{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.profilepic6{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.profilepic7{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.profilepic8{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.profilepic9{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.profilepic10{
+position: absolute;
+height: 10%;
+width: 17%;
+left: 20px;
+}
+.div8{
+position: relative;
+top: -2090px;
+left: 700px;
+height: 400px;
+width: 45%;
+background-color: white;
+color: black;
+text-align: center;
+}
+.div8baby1{
+font-size: 60px;
+}
+.div8baby2{
+position: absolute;
+font-size: 40px;
+bottom: 100px;
+left: 40px;
+width: 85%;
+height: 250px;
+background-color:rgb(156, 150, 150);
+color:black;
+top: 100px;
+}
+.div8baby3{
+position: absolute;
+top: 130px;
+right: 70px;
+}
+.namedate1{
+top: -18px;
+position: relative;
+}
+.name1{
+position: absolute;
+left: 50px;
+font-size:20px;
+font-weight: bold;
+}
+.date1{
+font-size: 10px;
+}
+.namedate2{
+top: -18px;
+position: relative;
+}
+.name2{
+position: absolute;
+left: 50px;
+font-size:20px;
+font-weight: bold;
+}
+.date2{
+font-size: 10px;
+}
+.namedate3{
+top: -25px;
+position: relative;
+}
+.name3{
+position: absolute;
+left: 50px;
+font-size:20px;
+font-weight: bold;
+}
+.date3{
+font-size: 10px;
+}
+.div9{
+position: relative;
+background-color: white;
+width: 90%;
+height: 350px;
+color: black;
+margin-top: -2050px;
+left:60px;
+padding: 0px;
+}
+.div9baby1{
+position: absolute;
+text-align: center;
+color: black;
+font-size: 60px;
+font-weight: bolder;
+right: 400px;
+top: 10px;
+}
+.div9baby2{
+position: absolute;
+top: 150px;
+text-align: center;
+right: 380px;
+}
+.div9please{
+font-size: 30px;
+font-weight: bolder;
+}
+.div9email{
+height: 30px;
+width: 300px;
+border-radius: 15px;
+}
+.div9button{
+background-color: grey;
+border-radius: 9px;
+font-weight: bolder;
+}
+.maldivesspan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+.zanzibarspan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+.italyspan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+.mexicospan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+.icelandspan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+.parisspan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+.texasspan{  
+ font-weight: bolder;
+left: 40px;
+font-size: 25px;
+}
+
+.form1 :hover {
+background:  rgba(0,0,0,0.5);
+}
+footer{
+    background-color: black;
+    color: white;
+    position:absolute;
+    padding: 50px;
+    width: 1170px;
+}
+.footerbutton{
+    padding: 30px;
+    background-color: white;
+    }
+.fa-arrow-up{
+    padding: 20px;
+    color:white ;
+}
+.modalbody{
+    position: relative;
+    background:gray;
+    height: 200px;
+    width: 200px;
+    top: 100px;
+    left: 450px;
+     border-radius: 17px;
+    font-size: 12px;
+    padding: 100px;
+}
+#modal{
+position: absolute;
+height: 110vh;
+width: 100vw; ;
+background-color: rgba(0,0,0,0.8);
+top: 170px;
+display: none;
+}
+.modalemail{
+    position: absolute;
+    width: 80%;
+    height: 8%;
+    right: 10%;
+    top:35% ;
+    border-radius: 8px;
+
+}
+.modalpassword{
+position: absolute;
+width: 80%;
+height: 8%;
+right: 10%;
+top: 65%;
+border-radius: 8px;
+}
+.modalsignup{
+    position: absolute;
+    width: 50%;
+    height: 12%;
+   background-color: green;
+   top: 85%;
+   right: 25%;
+}
+.modalcheckbox{
+    top: 15%;
+    position: absolute;
+    right: 30%;
+}
+.modalgender{
+    position: absolute;
+    left: 30%;
+    font-weight: bolder;
+    font-size:14px ;
+}
+.modalclose{
+    position: absolute;
+    right:10px ;
+    top: 3px;
+}
